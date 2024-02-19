@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772234328961",
+    "project_id": "toponeandzero",
+    "storage_bucket": "toponeandzero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772234328961:android:b184e71b6b97fe39244680",
+        "android_client_info": {
+          "package_name": "com.mycompany.toponeandzero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPWYzVHTbXc3BA2xeunph4c0_QZD3G7vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
